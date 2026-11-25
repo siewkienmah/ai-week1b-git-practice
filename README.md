@@ -45,10 +45,10 @@ git push -u origin add-about-me
 ```markdown
 ## About me
 
-- **Name:**
-- **Programme:**
-- **One AI topic I am curious about:**
-- **Why it interests me (one sentence):**
+- **Name:Tan Wen Poh**
+- **Programme:BCS**
+- **One AI topic I am curious about:Computer Vision**
+- **Why it interests me (one sentence):I want to see how apps can recognise real objects through a phone camera and place 3D models on them in AR.**
 ```
 
 ---
